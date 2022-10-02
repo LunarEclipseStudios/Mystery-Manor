@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/poppy",
+        "weight": 10
+      },
+      {
+        "model": "custom/foliage/new_flower1",
+        "weight": 10
+      }
+    ]
+  }
+}

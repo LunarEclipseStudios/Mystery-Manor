@@ -1,0 +1,1 @@
+execute as @a[tag=mostCoins,sort=random,limit=1] run loot replace entity @e[tag=pedestal3] container.0 loot bret06:player_head

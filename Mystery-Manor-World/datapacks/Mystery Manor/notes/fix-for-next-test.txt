@@ -1,0 +1,44 @@
+turn villagers invisible on their texture \
+add dynamic number system fix \
+fix garden spawn \
+finish hole in the wall thing \ (tempfix)
+fix getting stuck in mystery manor \
+let the other murderer know the other \
+add new music track \
+fix end game getting stuck when leave and on new player join \
+add tag to party leader in lobby \
+up coin count \
+fix coin counted bow staying on game end \
+fix player joining back causing body \
+fix switch box closed not having a wire \
+redo ui \
+change spawn buttons \
+fix door opening when game isn't started \
+add outside foliage \
+make outside content disappear on game start \
+optimize \
+add closets to hide in \
+fix detective killing innocent not killing them every time \
+fix advancement made perk \
+fix new room lights not turning out \
+fix whale pc \
+add walking up to porch scene \
+fix game start timer not being global \
+fix lunar eclipse presents disappearing on new player \
+mute ladders \
+fix normal in-game music playing \
+make it so people can't sprint or jump in the walk-up scene \
+add more secret passages \
+Has to leave and rejoin to get a new party leader \
+
+fix most coins being wrong
+fix scoreboards being wrong
+Bow Getting Stuck Outside on Detective Death When Joining Back
+Starting Scene Breaking on Join During Credits Area
+optimize
+
+on hold:
+fix flower theives
+
+
+mention: "Under entity-tracking-range in the spigot config the misc option controls dropped items, item frames and paintings."

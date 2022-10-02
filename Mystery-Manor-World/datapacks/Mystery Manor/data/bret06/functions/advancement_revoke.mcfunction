@@ -1,0 +1,1 @@
+advancement revoke @s from bret06:root

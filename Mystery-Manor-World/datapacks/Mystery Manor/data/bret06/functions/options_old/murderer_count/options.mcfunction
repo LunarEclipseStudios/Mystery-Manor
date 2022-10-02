@@ -1,0 +1,3 @@
+scoreboard players reset @s s_murderer_count
+execute unless score true gamestarted matches 1 run playsound minecraft:block.note_block.pling music @s ~ ~ ~ 999999999999.0 2.0 1.0
+execute unless score true gamestarted matches 1 run tellraw @s ["",{"text":"==Murderer Count==","bold":true,"color":"dark_green"},{"text":"\n\n"},{"text":"1 Murderer","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger 1murderer"}},{"text":"\n\n","color":"green"},{"text":"2 Murderers","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger 2murderer"}},{"text":"\n\n","color":"green"},{"text":"3 Murderers","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger 3murderer"}},{"text":"\n "}]

@@ -1,0 +1,1451 @@
+{
+    "providers": [
+        {
+            "ascent": 8,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/logo.png",
+            "height": 100,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "⏩"
+            ],
+            "file": "custom/fonts/misc/arrow.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/logo1.png",
+            "height": 100,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/space.png",
+            "height": 100,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 500,
+            "chars": [
+                ""
+            ],
+            "file": "custom/black.png",
+            "height": 1000,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 500,
+            "chars": [
+                ""
+            ],
+            "file": "custom/transparent.png",
+            "height": 1000,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "⬛"
+            ],
+            "file": "custom/ui/icon/electricity.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "⬜"
+            ],
+            "file": "custom/ui/icon/electricity_off.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7.5,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/icon/knife.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7.5,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/icon/bow.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "⌗"
+            ],
+            "file": "custom/ui/icon/clock_gold.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/get_items_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "؃"
+            ],
+            "file": "custom/ui/get_items_actionbar2.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/game_start_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "¬"
+            ],
+            "file": "custom/ui/game_start_actionbar2.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/timer_count_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🄰"
+            ],
+            "file": "custom/ui/timer_count_actionbar2.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🅂"
+            ],
+            "file": "custom/ui/actionbar/click_use.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🄵"
+            ],
+            "file": "custom/ui/only_once_actionbar1.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🄷"
+            ],
+            "file": "custom/ui/only_once_actionbar2.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🄹"
+            ],
+            "file": "custom/ui/perk_cooldown_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "🄱"
+            ],
+            "file": "custom/ui/waiting_lights_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -3,
+            "chars": [
+                "🅆"
+            ],
+            "file": "custom/ui/time_small.png",
+            "height": 60,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "🔪"
+            ],
+            "file": "custom/ui/roles/murderer.png",
+            "height": 13,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "🏹"
+            ],
+            "file": "custom/ui/roles/detective.png",
+            "height": 13,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "🧍"
+            ],
+            "file": "custom/ui/roles/innocent.png",
+            "height": 13,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "ҵ"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -233,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "؇"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -228,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "؊"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -210,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                ""
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -203,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "ӫ"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -123,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🄻"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -130,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🄳"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -95,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🄶"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -266,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🅅"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -3,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🄺"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -124,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "🄽"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -219,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⏹"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -597,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⏪"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -48,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⏫"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 29,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⏲"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -51,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⏱"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 26,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "❎"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 33,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "❌"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -44,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "❓"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": -43,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "❗"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -119,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "➕"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 27,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "➖"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -47,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "➗"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": -19,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "➔"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -96,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⓫"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 64,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "⓬"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": -14,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\u0092"
+            ],
+            "file": "custom/ui/icon/coin.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "θ"
+            ],
+            "file": "custom/ui/text/0.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "˦"
+            ],
+            "file": "custom/ui/text/1.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "Ϩ"
+            ],
+            "file": "custom/ui/text/1.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -31,
+            "chars": [
+                "Յ"
+            ],
+            "file": "custom/ui/text/1.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6969"
+            ],
+            "file": "custom/ui/pixel_split.png",
+            "height": 1,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6970"
+            ],
+            "file": "custom/ui/actionbar/murderer.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6971"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -131,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6972"
+            ],
+            "file": "custom/ui/actionbar/murderer_small.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6973"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -125,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6974"
+            ],
+            "file": "custom/ui/actionbar/power_actionbar.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6975"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -45,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\u6976"
+            ],
+            "file": "custom/ui/icon/innocent.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6977"
+            ],
+            "file": "custom/ui/actionbar/innocent.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6978"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -127,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6979"
+            ],
+            "file": "custom/ui/actionbar/innocent_small.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6980"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -121,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 6,
+            "chars": [
+                "\u6981"
+            ],
+            "file": "custom/ui/icon/arrow.png",
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6982"
+            ],
+            "file": "custom/ui/actionbar/gamestart_10.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6983"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -141,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6984"
+            ],
+            "file": "custom/ui/actionbar/gamestart_9.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6985"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -135,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6986"
+            ],
+            "file": "custom/ui/actionbar/gamestart_8.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6987"
+            ],
+            "file": "custom/ui/actionbar/gamestart_7.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6988"
+            ],
+            "file": "custom/ui/actionbar/gamestart_6.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6989"
+            ],
+            "file": "custom/ui/actionbar/gamestart_5.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6990"
+            ],
+            "file": "custom/ui/actionbar/gamestart_4.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6991"
+            ],
+            "file": "custom/ui/actionbar/gamestart_3.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6992"
+            ],
+            "file": "custom/ui/actionbar/gamestart_2.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6993"
+            ],
+            "file": "custom/ui/actionbar/gamestart_1.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6994"
+            ],
+            "file": "custom/ui/actionbar/perk_cooldown.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6995"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -113,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6996"
+            ],
+            "file": "custom/ui/actionbar/perk_once.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6997"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -223,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u6998"
+            ],
+            "file": "custom/ui/actionbar/wait_lights_perk.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u6999"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -181,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u7000"
+            ],
+            "file": "custom/ui/actionbar/infinite_timer/innocent_big.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u7001"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -86,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u7002"
+            ],
+            "file": "custom/ui/actionbar/infinite_timer/innocent_small.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u7003"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -80,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u7004"
+            ],
+            "file": "custom/ui/actionbar/infinite_timer/murderer_big.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u7005"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -90,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 11,
+            "chars": [
+                "\u7006"
+            ],
+            "file": "custom/ui/actionbar/infinite_timer/murderer_small.png",
+            "height": 15,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\u7007"
+            ],
+            "file": "custom/ui/pixel_nosplit.png",
+            "height": -84,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 32,
+            "chars": [
+                "\u7008"
+            ],
+            "file": "custom/ui/presents.png",
+            "height": 64,
+            "type": "bitmap"
+        },
+
+
+
+
+
+
+
+        {
+            "ascent": 14,
+            "chars": [
+                "\uBC02"
+            ],
+            "file": "builder:ui/gui/icon.png",
+            "height": 20,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBC01"
+            ],
+            "file": "builder:ui/gui/builder_book_layout.png",
+            "height": 126,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC00"
+            ],
+            "file": "builder:ui/gui/pixel_nosplit.png",
+            "height": -1.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC05"
+            ],
+            "file": "builder:ui/gui/pixel_split.png",
+            "height": 0.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBBB1"
+            ],
+            "file": "builder:ui/blocks/crate1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA02"
+            ],
+            "file": "builder:ui/blocks/white_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA03"
+            ],
+            "file": "builder:ui/blocks/orange_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA04"
+            ],
+            "file": "builder:ui/blocks/magenta_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA05"
+            ],
+            "file": "builder:ui/blocks/light_blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA06"
+            ],
+            "file": "builder:ui/blocks/yellow_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA07"
+            ],
+            "file": "builder:ui/blocks/lime_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA08"
+            ],
+            "file": "builder:ui/blocks/pink_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA09"
+            ],
+            "file": "builder:ui/blocks/grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA10"
+            ],
+            "file": "builder:ui/blocks/light_grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA11"
+            ],
+            "file": "builder:ui/blocks/cyan_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA12"
+            ],
+            "file": "builder:ui/blocks/purple_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA13"
+            ],
+            "file": "builder:ui/blocks/blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA14"
+            ],
+            "file": "builder:ui/blocks/brown_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA15"
+            ],
+            "file": "builder:ui/blocks/green_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA16"
+            ],
+            "file": "builder:ui/blocks/red_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA17"
+            ],
+            "file": "builder:ui/blocks/black_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB01"
+            ],
+            "file": "builder:ui/wall.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB02"
+            ],
+            "file": "builder:ui/rocks1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB03"
+            ],
+            "file": "builder:ui/rocks2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB04"
+            ],
+            "file": "builder:ui/rocks3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB05"
+            ],
+            "file": "builder:ui/book_stack1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB06"
+            ],
+            "file": "builder:ui/book_stack2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB07"
+            ],
+            "file": "builder:ui/book1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB08"
+            ],
+            "file": "builder:ui/book2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB09"
+            ],
+            "file": "builder:ui/scroll1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB10"
+            ],
+            "file": "builder:ui/scroll2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB11"
+            ],
+            "file": "builder:ui/landmine.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB12"
+            ],
+            "file": "builder:ui/bear_trap.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB13"
+            ],
+            "file": "builder:ui/bear_trap_closed.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB14"
+            ],
+            "file": "builder:ui/switch_box.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB15"
+            ],
+            "file": "builder:ui/tabs.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB16"
+            ],
+            "file": "builder:ui/cup.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB17"
+            ],
+            "file": "builder:ui/cup2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB18"
+            ],
+            "file": "builder:ui/iron_sword_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB19"
+            ],
+            "file": "builder:ui/iron_pickaxe_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB20"
+            ],
+            "file": "builder:ui/sleeping_bag.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB21"
+            ],
+            "file": "builder:ui/enchantanvil.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB22"
+            ],
+            "file": "builder:ui/logs1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB23"
+            ],
+            "file": "builder:ui/logs2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB24"
+            ],
+            "file": "builder:ui/logs3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB25"
+            ],
+            "file": "builder:ui/yeosleeping.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB26"
+            ],
+            "file": "builder:ui/spyglass.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB27"
+            ],
+            "file": "builder:ui/bow_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB28"
+            ],
+            "file": "builder:ui/stocking.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB29"
+            ],
+            "file": "builder:ui/forge_hammer.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB30"
+            ],
+            "file": "builder:ui/tree.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB31"
+            ],
+            "file": "builder:ui/lights.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB32"
+            ],
+            "file": "builder:ui/bottles1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB33"
+            ],
+            "file": "builder:ui/bottles2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB34"
+            ],
+            "file": "builder:ui/bottles3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB35"
+            ],
+            "file": "builder:ui/bottles4.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB36"
+            ],
+            "file": "builder:ui/chair1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB37"
+            ],
+            "file": "builder:ui/wheelbarrow.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB38"
+            ],
+            "file": "builder:ui/tent.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB39"
+            ],
+            "file": "builder:ui/lamp_post.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB40"
+            ],
+            "file": "builder:ui/sack1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB41"
+            ],
+            "file": "builder:ui/tombstone.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB42"
+            ],
+            "file": "builder:ui/pumpkin1.png",
+            "height": 16,
+            "type": "bitmap"
+        }
+    ]
+}

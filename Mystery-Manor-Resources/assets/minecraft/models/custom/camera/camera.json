@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/ui/camera/camera",
+		"particle": "custom/ui/camera/camera"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#0"},
+				"south": {"uv": [6, 2, 8, 4], "texture": "#0"},
+				"west": {"uv": [4, 2, 6, 4], "texture": "#0"},
+				"up": {"uv": [4, 2, 2, 0], "texture": "#0"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0, 0, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [-9.12, 8.2, -1.62],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [-9.12, 8.2, -1.62],
+			"scale": [0, 0, 0]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [25.5, 139, 0],
+			"translation": [0.25, 3.75, 0],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 13, 7]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/stone_slab" },
+        "type=top": { "model": "block/stone_slab_top" },
+        "type=double,waterlogged=false": { "model": "block/stone" },
+        "type=double,waterlogged=true": { "model": "builder:block/planks/magenta_planks" }
+    }
+}

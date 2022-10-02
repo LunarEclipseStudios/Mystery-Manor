@@ -1,0 +1,4 @@
+setblock -42 66 -8 minecraft:air
+setblock -42 66 -8 minecraft:stone_button[face=wall,facing=south]
+execute as @a[tag=1] at @s run playsound minecraft:block.note_block.pling master @s ~ ~ ~ 999999999.0 2.0 1.0
+tellraw @a[tag=1] ["",{"text":"==Options==","bold":true,"color":"dark_green"},{"text":"\n\n"},{"text":"Round Length","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger sel_round_length"}},{"text":"\n\n"},{"text":"Murderer Count","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger s_murderer_count"}},{"text":"\n\n"},{"text":"Starting Animation","underlined":true,"color":"green","clickEvent":{"action":"run_command","value":"/trigger s_starting_delay"}},{"text":"\n\n\n "}]

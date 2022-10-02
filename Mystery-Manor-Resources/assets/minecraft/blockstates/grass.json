@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/grass",
+        "weight": 10
+      },
+      {
+        "model": "custom/foliage/long_plant",
+        "weight": 3
+      }
+    ]
+  }
+}

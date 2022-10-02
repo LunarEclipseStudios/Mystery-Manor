@@ -1,0 +1,1 @@
+execute as @a[tag=lastMurderer] run loot replace entity @e[tag=pedestal2] container.0 loot bret06:player_head

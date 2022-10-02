@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {CustomName:'[{"text":"[Start Game]","bold":true,"color":"dark_green"}]',CustomNameVisible:1b,Small:1b,NoGravity:1b}

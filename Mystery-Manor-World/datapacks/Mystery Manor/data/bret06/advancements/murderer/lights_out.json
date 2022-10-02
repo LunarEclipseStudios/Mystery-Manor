@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:carrot_on_a_stick",
+            "nbt": "{CustomModelData:256}"
+        },
+        "title": {
+            "text": "Lights Out!",
+            "bold": false,
+            "color": "white"
+        },
+        "description": {
+            "text": "Recharge",
+            "bold": false,
+            "color": "gray"
+        },
+        "background": "minecraft:textures/custom/advancements/backgrounds/soul_sand.png",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "frame": "task"
+    },
+    "parent": "bret06:root",
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}

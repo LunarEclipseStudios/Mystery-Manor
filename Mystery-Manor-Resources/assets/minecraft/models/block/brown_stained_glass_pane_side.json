@@ -1,0 +1,29 @@
+{
+	"credit": "Made by Bret06 using Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/black_stained_glass",
+		"pane": "block/black_stained_glass",
+		"edge": "block/black_stained_glass_pane_top"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 8],
+			"to": [9, 16, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 8, 16], "texture": "#pane"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#pane"},
+				"up": {"uv": [7, 0, 9, 16], "texture": "#edge"}
+			}
+		},
+		{
+			"from": [7, 16, 8],
+			"to": [9, 32, 16],
+			"faces": {
+				"east": {"uv": [0, 0, 8, 16], "texture": "#pane"},
+				"west": {"uv": [8, 0, 16, 16], "texture": "#pane"},
+				"up": {"uv": [7, 0, 9, 16], "texture": "#edge"}
+			}
+		}
+	]
+}

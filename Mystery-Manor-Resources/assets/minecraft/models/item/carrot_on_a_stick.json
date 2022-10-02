@@ -1,0 +1,16 @@
+{
+    "overrides":
+    [
+
+        {"model":"custom/perks/murderer/lights_out","predicate":{"custom_model_data":256}},
+        {"model":"custom/perks/murderer/lights_out_off","predicate":{"custom_model_data":257}},
+        {"model":"custom/perks/murderer/dash","predicate":{"custom_model_data":258}},
+        {"model":"custom/perks/murderer/dash_off","predicate":{"custom_model_data":259}},
+        {"model":"custom/perks/detective/clue","predicate":{"custom_model_data":260}},
+        {"model":"custom/perks/detective/clue_off","predicate":{"custom_model_data":261}},
+        {"model":"custom/camera/next_page","predicate":{"custom_model_data":272}},
+        {"model":"custom/camera/back_page","predicate":{"custom_model_data":273}},
+        {"model":"custom/invisible","predicate":{"custom_model_data":274}}
+    ],
+    "parent":"item/generated","textures":{"layer0":"item/carrot_on_a_stick"}
+}

@@ -1,0 +1,14 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/dandelion",
+        "weight": 30
+      },
+      {
+        "model": "block/leaves/colored_spruce_leaves",
+        "weight": 15
+      }
+    ]
+  }
+}

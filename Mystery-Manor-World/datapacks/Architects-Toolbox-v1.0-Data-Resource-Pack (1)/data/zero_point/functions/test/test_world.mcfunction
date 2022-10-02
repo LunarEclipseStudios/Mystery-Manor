@@ -1,0 +1,1 @@
+execute in builder:test run tp @s 0 64 0

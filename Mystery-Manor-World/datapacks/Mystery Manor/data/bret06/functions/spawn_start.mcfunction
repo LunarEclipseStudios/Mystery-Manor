@@ -1,0 +1,1 @@
+tp @a[tag=not_close_enough] -42.5 65 40.5 170 0

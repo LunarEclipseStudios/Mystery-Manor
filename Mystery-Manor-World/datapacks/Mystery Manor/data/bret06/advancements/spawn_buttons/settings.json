@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+          "item": "minecraft:stone"
+        },
+        "title": "",
+        "description": "",
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": true
+      },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_interacted_with_entity",
+        "conditions": {
+          "entity": {
+            "type": "villager",
+            "nbt": "{Tags:[\"settings\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "bret06:options/settings"
+    }
+  }
+  

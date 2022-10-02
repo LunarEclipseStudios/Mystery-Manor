@@ -1,0 +1,2 @@
+kill @e[type=item,nbt={Item: {id: "minecraft:carrot_on_a_stick", Count: 1b,tag:{lights_out:1b}}}]
+execute as @e[type=item,nbt={Item: {id: "minecraft:carrot_on_a_stick", Count: 1b,tag:{lights_out:1b}}}] at @s run data merge entity @s {PickupDelay:100b}

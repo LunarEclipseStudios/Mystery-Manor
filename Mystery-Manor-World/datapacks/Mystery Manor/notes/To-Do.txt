@@ -1,0 +1,46 @@
+add roles \
+fix button glitch (fixs every other round) \
+fix button item frame break \
+remove advancements \
+make people wait 30 seconds before first button click \
+make players spread around the map when the game starts \ (NEED FOR NEW MAP)
+tell players when detectives dead \
+dead body \
+stop players from duping items in the lobby \
+finish fading in system \
+make cutscene for when a new game starts \
+make lobby music \
+fake body \
+make the innocent not have arrow \
+make the lights fixable \
+put an icon with the roles names \
+make it so if the game isn't running and someone is not in the lobby area they will get killed \
+make the maximum players 8 \
+make it so when you hold a perk it tells you how long until it reloads \
+add configurable menu options \
+check if there are any armor stands that mazzepa placed \
+add developer mode \
+make the reload text for the perks have the bedrock background \
+add time changing system \
+add upstairs tower floor \
+fix the light off perk positions \
+add coins \
+add one shot bow when you get 10 coins \
+Make it so innocents can't delete their bows \
+change knife model \
+fix old guis \
+dd coin counter\
+fix infinite timer gui \
+add spectator light fixing ui \
+fix spectator guis \
+add leaderboard \
+add detective leaderboard murderer win chance \
+add most coins ties leaderboard chance \
+add painting models \
+
+add secret passages
+add ambience to all floors
+Make Mystery Manor Haunted
+
+
+Last Thing I was Doing:

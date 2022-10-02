@@ -1,0 +1,32 @@
+{
+	"credit": "Made by Bret06 using Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "custom/paneling_wall",
+		"particle": "custom/paneling_wall"
+	},
+	"elements": [
+		{
+			"from": [0, -16, 15.95],
+			"to": [16, 4, 15.95],
+			"faces": {
+				"north": {"uv": [4, 0, 8, 5], "texture": "#0"},
+				"east": {"uv": [4, 0, 4.25, 5], "texture": "#0"},
+				"west": {"uv": [7.75, 0, 8, 5], "texture": "#0"},
+				"down": {"uv": [8, 4.75, 4, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 4, 13.975],
+			"to": [16, 8.025, 16],
+			"faces": {
+				"north": {"uv": [4, 7, 8, 8], "texture": "#0"},
+				"east": {"uv": [4.5, 7, 4, 8], "texture": "#0"},
+				"west": {"uv": [8, 7, 7.5, 8], "texture": "#0"},
+				"up": {"uv": [8, 7, 4, 7.5], "texture": "#0"},
+				"down": {"uv": [8, 7.5, 4, 8], "texture": "#0"}
+			}
+		}
+	]
+}

@@ -1,0 +1,1 @@
+item replace entity @s hotbar.0 with iron_sword{Unbreakable:1b,display:{Name:'[{"text":"Knife","italic":false}]'},AttributeModifiers:[{AttributeName:"generic.attack_damage",Amount:2048,Name:"generic.attack_damage",UUID:[I;-121717,17104,172125,-34208]}],HideFlags:2,Knife:1b} 1

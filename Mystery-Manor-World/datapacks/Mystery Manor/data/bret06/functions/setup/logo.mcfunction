@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {ArmorItems:[{},{},{},{id:paper,tag:{CustomModelData:304},Count:1}],ArmorDropChances:[0F,0F,0F,0F],Invisible:1b}

@@ -1,0 +1,368 @@
+{
+    "overrides": [
+        {
+            "model": "builder:block/crate/crate1",
+            "predicate": {
+                "custom_model_data": 1
+            }
+        },
+        {
+            "model": "builder:block/planks/white_planks",
+            "predicate": {
+                "custom_model_data": 2
+            }
+        },
+        {
+            "model": "builder:block/planks/orange_planks",
+            "predicate": {
+                "custom_model_data": 3
+            }
+        },
+        {
+            "model": "builder:block/planks/magenta_planks",
+            "predicate": {
+                "custom_model_data": 4
+            }
+        },
+        {
+            "model": "builder:block/planks/light_blue_planks",
+            "predicate": {
+                "custom_model_data": 5
+            }
+        },
+        {
+            "model": "builder:block/planks/yellow_planks",
+            "predicate": {
+                "custom_model_data": 6
+            }
+        },
+        {
+            "model": "builder:block/planks/lime_planks",
+            "predicate": {
+                "custom_model_data": 7
+            }
+        },
+        {
+            "model": "builder:block/planks/pink_planks",
+            "predicate": {
+                "custom_model_data": 8
+            }
+        },
+        {
+            "model": "builder:block/planks/grey_planks",
+            "predicate": {
+                "custom_model_data": 9
+            }
+        },
+        {
+            "model": "builder:block/planks/light_grey_planks",
+            "predicate": {
+                "custom_model_data": 10
+            }
+        },
+        {
+            "model": "builder:block/planks/cyan_planks",
+            "predicate": {
+                "custom_model_data": 11
+            }
+        },
+        {
+            "model": "builder:block/planks/purple_planks",
+            "predicate": {
+                "custom_model_data": 12
+            }
+        },
+        {
+            "model": "builder:block/planks/blue_planks",
+            "predicate": {
+                "custom_model_data": 13
+            }
+        },
+        {
+            "model": "builder:block/planks/brown_planks",
+            "predicate": {
+                "custom_model_data": 14
+            }
+        },
+        {
+            "model": "builder:block/planks/green_planks",
+            "predicate": {
+                "custom_model_data": 15
+            }
+        },
+        {
+            "model": "builder:block/planks/red_planks",
+            "predicate": {
+                "custom_model_data": 16
+            }
+        },
+        {
+            "model": "builder:block/planks/black_planks",
+            "predicate": {
+                "custom_model_data": 17
+            }
+        },
+        {
+            "model": "builder:item/decorations/pebbles/rocks1",
+            "predicate": {
+                "custom_model_data": 256
+            }
+        },
+        {
+            "model": "builder:item/decorations/pebbles/rocks2",
+            "predicate": {
+                "custom_model_data": 257
+            }
+        },
+        {
+            "model": "builder:item/decorations/pebbles/rocks3",
+            "predicate": {
+                "custom_model_data": 258
+            }
+        },
+        {
+            "model": "builder:item/decorations/lanterns/wall",
+            "predicate": {
+                "custom_model_data": 272
+            }
+        },
+        {
+            "model": "builder:item/decorations/book/book_stack1",
+            "predicate": {
+                "custom_model_data": 288
+            }
+        },
+        {
+            "model": "builder:item/decorations/book/book_stack2",
+            "predicate": {
+                "custom_model_data": 289
+            }
+        },
+        {
+            "model": "builder:item/decorations/book/book1",
+            "predicate": {
+                "custom_model_data": 290
+            }
+        },
+        {
+            "model": "builder:item/decorations/book/book2",
+            "predicate": {
+                "custom_model_data": 291
+            }
+        },
+        {
+            "model": "builder:item/decorations/scrolls/scroll1",
+            "predicate": {
+                "custom_model_data": 304
+            }
+        },
+        {
+            "model": "builder:item/decorations/scrolls/scroll2",
+            "predicate": {
+                "custom_model_data": 305
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/landmine",
+            "predicate": {
+                "custom_model_data": 320
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/bear_trap",
+            "predicate": {
+                "custom_model_data": 336
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/bear_trap_closed",
+            "predicate": {
+                "custom_model_data": 337
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/switch_box",
+            "predicate": {
+                "custom_model_data": 352
+            }
+        },
+        {
+            "model": "builder:item/decorations/signs/tabs",
+            "predicate": {
+                "custom_model_data": 368
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/cup",
+            "predicate": {
+                "custom_model_data": 384
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/cup2",
+            "predicate": {
+                "custom_model_data": 385
+            }
+        },
+        {
+            "model": "builder:item/decorations/tools/iron_sword_prop",
+            "predicate": {
+                "custom_model_data": 400
+            }
+        },
+        {
+            "model": "builder:item/decorations/tools/iron_pickaxe_prop",
+            "predicate": {
+                "custom_model_data": 416
+            }
+        },
+        {
+            "model": "builder:item/decorations/sleep/sleeping_bag",
+            "predicate": {
+                "custom_model_data": 432
+            }
+        },
+        {
+            "model": "builder:item/decorations/blocks/enchantanvil",
+            "predicate": {
+                "custom_model_data": 448
+            }
+        },
+        {
+            "model": "builder:item/decorations/logs/logs1",
+            "predicate": {
+                "custom_model_data": 464
+            }
+        },
+        {
+            "model": "builder:item/decorations/logs/logs2",
+            "predicate": {
+                "custom_model_data": 465
+            }
+        },
+        {
+            "model": "builder:item/decorations/logs/logs3",
+            "predicate": {
+                "custom_model_data": 466
+            }
+        },
+        {
+            "model": "builder:item/decorations/mobs/yeosleeping",
+            "predicate": {
+                "custom_model_data": 480
+            }
+        },
+        {
+            "model": "builder:item/decorations/tools/spyglass",
+            "predicate": {
+                "custom_model_data": 496
+            }
+        },
+        {
+            "model": "builder:item/decorations/tools/bow_prop",
+            "predicate": {
+                "custom_model_data": 512
+            }
+        },
+        {
+            "model": "builder:item/decorations/tools/forge_hammer",
+            "predicate": {
+                "custom_model_data": 513
+            }
+        },
+        {
+            "model": "builder:item/decorations/christmas/stocking",
+            "predicate": {
+                "custom_model_data": 528
+            }
+        },
+        {
+            "model": "builder:item/decorations/christmas/stocking2",
+            "predicate": {
+                "custom_model_data": 529
+            }
+        },
+        {
+            "model": "builder:item/decorations/christmas/tree",
+            "predicate": {
+                "custom_model_data": 530
+            }
+        },
+        {
+            "model": "builder:item/decorations/christmas/lights",
+            "predicate": {
+                "custom_model_data": 531
+            }
+        },
+        {
+            "model": "builder:item/decorations/bottles/bottles1",
+            "predicate": {
+                "custom_model_data": 544
+            }
+        },
+        {
+            "model": "builder:item/decorations/bottles/bottles2",
+            "predicate": {
+                "custom_model_data": 545
+            }
+        },
+        {
+            "model": "builder:item/decorations/bottles/bottles3",
+            "predicate": {
+                "custom_model_data": 546
+            }
+        },
+        {
+            "model": "builder:item/decorations/bottles/bottles4",
+            "predicate": {
+                "custom_model_data": 547
+            }
+        },
+        {
+            "model": "builder:item/decorations/chairs/chair1",
+            "predicate": {
+                "custom_model_data": 560
+            }
+        },
+        {
+            "model": "builder:item/decorations/vehicles/wheelbarrow",
+            "predicate": {
+                "custom_model_data": 576
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/tent",
+            "predicate": {
+                "custom_model_data": 592
+            }
+        },
+        {
+            "model": "builder:item/decorations/lanterns/lamp_post",
+            "predicate": {
+                "custom_model_data": 608
+            }
+        },
+        {
+            "model": "builder:item/decorations/random/sack1",
+            "predicate": {
+                "custom_model_data": 624
+            }
+        },
+        {
+            "model": "builder:item/decorations/halloween/tombstone",
+            "predicate": {
+                "custom_model_data": 640
+            }
+        },
+        {
+            "model": "builder:item/decorations/halloween/pumpkin1",
+            "predicate": {
+                "custom_model_data": 656
+            }
+        }
+    ],
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/item_frame"
+    }
+}

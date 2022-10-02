@@ -1,0 +1,7 @@
+tag @s remove not_close_enough
+tag @s add opening_played
+summon minecraft:lightning_bolt 4.31 64.00 -54.50
+weather thunder
+tellraw @s ["",{"text":"\n"},{"text":"\ue01b","color":"white"},{"text":"\n\n\n\n_________________\n\n"},{"text":"Story","bold":true,"color":"dark_red"},{"text":"\n"},{"text":"You and a group of friends decide to go trick or treating at the supposedly haunted Mystery Manor. As you approach the front door it begins to creak open. One of your friends rush inside and the rest of the group follows. As you step through the door it shuts behind you locking until the morning. Beware though, for mystery lies within these walls...","color":"white"},{"text":"\n\n"},{"text":"Website","bold":true,"underlined":true,"color":"dark_purple","clickEvent":{"action":"open_url","value":"https://lunareclipse.studio/"}},{"text":"\n\n"},{"text":"Credits","bold":true,"underlined":true,"color":"#29C9FF","clickEvent":{"action":"open_url","value":"https://www.lunareclipse.studio/mystery-manor#addon_section"}},{"text":"\n\n"},{"text":"Discord","bold":true,"underlined":true,"color":"#2E29B8","clickEvent":{"action":"open_url","value":"https://discord.gg/RmMtqxJJgH"}},{"text":"\n\n"},{"text":"Thanks For Playing!","bold":true,"color":"dark_green"}]
+function bret06:setup/outside_content_off
+function bret06:setup/outside_content_on

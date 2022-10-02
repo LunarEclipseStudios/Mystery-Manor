@@ -1,0 +1,1 @@
+execute as @a[tag=good] at @s unless entity @a[tag=good,distance=1..] run tag @s add lastAlive

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/sandstone_slab" },
+        "type=top": { "model": "block/sandstone_slab_top" },
+        "type=double,waterlogged=false": { "model": "block/sandstone" },
+        "type=double,waterlogged=true": { "model": "builder:block/planks/pink_planks" }
+    }
+}

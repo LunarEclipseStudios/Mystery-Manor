@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~-1 ~ {Small:1b,Tags:["coin_point"],NoGravity:1b}

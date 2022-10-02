@@ -1,0 +1,47 @@
+{
+    "mystery.music": {
+        "sounds": [
+            "bret06:music/game"
+        ]
+    },
+    "mystery2.music": {
+        "sounds": [
+            "bret06:music/game2"
+        ]
+    },
+    "mystery3.music": {
+        "sounds": [
+            "bret06:music/game3"
+        ]
+    },
+    "meeting": {
+        "sounds": [
+            "bret06:meeting"
+        ]
+    },
+    "murderer_perk": {
+        "sounds": [
+            "bret06:murderer_perk"
+        ]
+    },
+    "lobby.music": {
+        "sounds": [
+            "bret06:music/lobby"
+        ]
+    },
+    "lobby2.music": {
+        "sounds": [
+            "bret06:music/lobby2"
+        ]
+    },
+    "end.music": {
+        "sounds": [
+            "bret06:music/end"
+        ]
+    },
+    "opening.music": {
+        "sounds": [
+            "bret06:music/opening"
+        ]
+    }
+}

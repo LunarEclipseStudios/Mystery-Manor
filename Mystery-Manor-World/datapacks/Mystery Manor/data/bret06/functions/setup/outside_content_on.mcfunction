@@ -1,0 +1,2 @@
+function bret06:setup/outside_menu
+function bret06:setup/porch_ready_borders

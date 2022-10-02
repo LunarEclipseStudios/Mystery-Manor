@@ -1,0 +1,7 @@
+{
+    "parent": "lunar:block/template_leaves_0",
+    "textures": {
+        "all": "block/oak_leaves",
+        "bushy": "block/oak_leaves_0"
+    }
+}

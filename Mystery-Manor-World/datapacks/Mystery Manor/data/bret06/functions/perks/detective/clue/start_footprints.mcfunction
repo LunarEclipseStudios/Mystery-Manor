@@ -1,0 +1,2 @@
+execute unless entity @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:paper",Count:1b,tag:{CustomModelData:352}}}] run kill @e[tag=print]
+execute unless entity @e[type=minecraft:item_frame,nbt={Item:{id:"minecraft:paper",Count:1b,tag:{CustomModelData:352}}}] run tag @s add footprints

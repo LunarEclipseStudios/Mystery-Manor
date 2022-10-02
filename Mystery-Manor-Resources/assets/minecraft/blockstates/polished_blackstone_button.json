@@ -1,0 +1,37 @@
+{
+  "variants": {
+    "face=wall,facing=east,powered=false": {
+      "model": "minecraft:block/polished_blackstone_button",
+      "y": 90,
+      "x": 90
+    },
+    "face=wall,facing=east,powered=true": {
+      "model": "minecraft:block/polished_blackstone_button_pressed",
+      "y": 90
+    },
+    "face=wall,facing=north,powered=false": {
+      "model": "minecraft:block/polished_blackstone_button",
+      "x": 90
+    },
+    "face=wall,facing=north,powered=true": {
+      "model": "minecraft:block/polished_blackstone_button_pressed"
+    },
+    "face=wall,facing=south,powered=false": {
+      "model": "minecraft:block/polished_blackstone_button",
+      "y": 180
+    },
+    "face=wall,facing=south,powered=true": {
+      "model": "minecraft:block/polished_blackstone_button_pressed",
+      "y": 180
+    },
+    "face=wall,facing=west,powered=false": {
+      "model": "minecraft:block/polished_blackstone_button",
+      "y": 270,
+      "x": 90
+    },
+    "face=wall,facing=west,powered=true": {
+      "model": "minecraft:block/polished_blackstone_button_pressed",
+      "y": 270
+    }
+  }
+}

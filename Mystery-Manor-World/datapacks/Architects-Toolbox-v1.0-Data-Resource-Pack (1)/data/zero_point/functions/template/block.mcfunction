@@ -1,0 +1,1 @@
+give @s minecraft:item_frame{CustomModelData:1,EntityTag:{Tags:["block","crate1"],Invisible:1b,Fixed:1b},display:{Name:'[{"text":"Crate [1]","italic":false}]'}}

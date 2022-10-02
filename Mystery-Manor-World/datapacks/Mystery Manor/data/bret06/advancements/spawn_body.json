@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:bow"
+    },
+    "title": "",
+    "description": "",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": true
+  },
+  "parent": "bret06:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:entity_hurt_player"
+    }
+  }
+}

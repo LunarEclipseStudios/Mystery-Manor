@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/coin",
+		"particle": "custom/coin"
+	},
+	"elements": [
+		{
+			"name": "coin_0",
+			"from": [5, 0, 6.5],
+			"to": [11, 10, 9.5],
+			"faces": {
+				"north": {"uv": [11, 13, 5, 3], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [10, 3, 11, 13], "texture": "#0"},
+				"south": {"uv": [5, 3, 11, 13], "texture": "#0"},
+				"west": {"uv": [5, 3, 6, 13], "texture": "#0"},
+				"up": {"uv": [11, 3, 5, 4], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [5, 12, 11, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "coin_1",
+			"from": [4, 1, 6.5],
+			"to": [5, 9, 9.5],
+			"faces": {
+				"north": {"uv": [11, 12, 12, 4], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [4, 4, 5, 12], "texture": "#0"},
+				"south": {"uv": [4, 4, 5, 12], "texture": "#0"},
+				"west": {"uv": [13, 4, 16, 12], "texture": "#0"},
+				"up": {"uv": [5, 4, 4, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [4, 11, 5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "coin_2",
+			"from": [11, 1, 6.5],
+			"to": [12, 9, 9.5],
+			"faces": {
+				"north": {"uv": [4, 12, 5, 4], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [13, 4, 16, 12], "texture": "#0"},
+				"south": {"uv": [11, 4, 12, 12], "texture": "#0"},
+				"west": {"uv": [11, 4, 12, 12], "texture": "#0"},
+				"up": {"uv": [12, 4, 11, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [11, 11, 12, 12], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -4, 0],
+			"scale": [3, 3, 3]
+		}
+	},
+	"groups": [
+		{
+			"name": "coin",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"armAnimationEnabled": false,
+			"children": [0, 1, 2]
+		}
+	]
+}

@@ -1,0 +1,3 @@
+
+execute unless entity @s[tag=lights_out] run item replace entity @s hotbar.8 with carrot_on_a_stick{CustomModelData:256,display:{Name:'[{"text":"Lights Out","italic":false,"bold":true,"color":"dark_red"}]',Lore:['[{"text":"This perk allows you to turn off the lights giving you an advantage.","italic":false,"color":"red"}]']}} 1
+execute if entity @s[tag=lights_out] run item replace entity @s hotbar.8 with carrot_on_a_stick{CustomModelData:257,display:{Name:'[{"text":"Lights Out","italic":false,"bold":true,"color":"dark_red"}]',Lore:['[{"text":"This perk allows you to turn off the lights giving you an advantage.","italic":false,"color":"red"}]']}} 1

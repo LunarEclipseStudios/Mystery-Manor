@@ -1,0 +1,2 @@
+execute as @a[tag=lastAlive] run loot replace entity @e[tag=pedestal1] container.0 loot bret06:player_head
+execute as @a[tag=lastAlive] run data merge entity @e[tag=heroText,limit=1] {CustomName:'{"text":"Last Alive","color":"green"}'}

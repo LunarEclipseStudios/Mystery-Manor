@@ -1,0 +1,571 @@
+{
+    "providers": [
+        {
+            "ascent": 14,
+            "chars": [
+                "\uBC02"
+            ],
+            "file": "builder:ui/gui/icon.png",
+            "height": 20,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 8,
+            "chars": [
+                "\uBC01"
+            ],
+            "file": "builder:ui/gui/builder_book_layout.png",
+            "height": 126,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC00"
+            ],
+            "file": "builder:ui/gui/pixel_nosplit.png",
+            "height": -1.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": -32768,
+            "chars": [
+                "\uBC05"
+            ],
+            "file": "builder:ui/gui/pixel_split.png",
+            "height": 0.5,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBBB1"
+            ],
+            "file": "builder:ui/blocks/crate1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA02"
+            ],
+            "file": "builder:ui/blocks/white_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA03"
+            ],
+            "file": "builder:ui/blocks/orange_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA04"
+            ],
+            "file": "builder:ui/blocks/magenta_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA05"
+            ],
+            "file": "builder:ui/blocks/light_blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA06"
+            ],
+            "file": "builder:ui/blocks/yellow_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA07"
+            ],
+            "file": "builder:ui/blocks/lime_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA08"
+            ],
+            "file": "builder:ui/blocks/pink_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA09"
+            ],
+            "file": "builder:ui/blocks/grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA10"
+            ],
+            "file": "builder:ui/blocks/light_grey_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA11"
+            ],
+            "file": "builder:ui/blocks/cyan_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA12"
+            ],
+            "file": "builder:ui/blocks/purple_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA13"
+            ],
+            "file": "builder:ui/blocks/blue_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA14"
+            ],
+            "file": "builder:ui/blocks/brown_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA15"
+            ],
+            "file": "builder:ui/blocks/green_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA16"
+            ],
+            "file": "builder:ui/blocks/red_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBA17"
+            ],
+            "file": "builder:ui/blocks/black_planks.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB01"
+            ],
+            "file": "builder:ui/wall.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB02"
+            ],
+            "file": "builder:ui/rocks1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB03"
+            ],
+            "file": "builder:ui/rocks2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB04"
+            ],
+            "file": "builder:ui/rocks3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB05"
+            ],
+            "file": "builder:ui/book_stack1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB06"
+            ],
+            "file": "builder:ui/book_stack2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB07"
+            ],
+            "file": "builder:ui/book1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB08"
+            ],
+            "file": "builder:ui/book2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB09"
+            ],
+            "file": "builder:ui/scroll1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB10"
+            ],
+            "file": "builder:ui/scroll2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB11"
+            ],
+            "file": "builder:ui/landmine.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB12"
+            ],
+            "file": "builder:ui/bear_trap.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB13"
+            ],
+            "file": "builder:ui/bear_trap_closed.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB14"
+            ],
+            "file": "builder:ui/switch_box.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB15"
+            ],
+            "file": "builder:ui/tabs.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB16"
+            ],
+            "file": "builder:ui/cup.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB17"
+            ],
+            "file": "builder:ui/cup2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB18"
+            ],
+            "file": "builder:ui/iron_sword_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB19"
+            ],
+            "file": "builder:ui/iron_pickaxe_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB20"
+            ],
+            "file": "builder:ui/sleeping_bag.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB21"
+            ],
+            "file": "builder:ui/enchantanvil.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB22"
+            ],
+            "file": "builder:ui/logs1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB23"
+            ],
+            "file": "builder:ui/logs2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB24"
+            ],
+            "file": "builder:ui/logs3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB25"
+            ],
+            "file": "builder:ui/yeosleeping.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB26"
+            ],
+            "file": "builder:ui/spyglass.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB27"
+            ],
+            "file": "builder:ui/bow_prop.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB28"
+            ],
+            "file": "builder:ui/stocking.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB29"
+            ],
+            "file": "builder:ui/forge_hammer.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB30"
+            ],
+            "file": "builder:ui/tree.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB31"
+            ],
+            "file": "builder:ui/lights.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB32"
+            ],
+            "file": "builder:ui/bottles1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB33"
+            ],
+            "file": "builder:ui/bottles2.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB34"
+            ],
+            "file": "builder:ui/bottles3.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB35"
+            ],
+            "file": "builder:ui/bottles4.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB36"
+            ],
+            "file": "builder:ui/chair1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB37"
+            ],
+            "file": "builder:ui/wheelbarrow.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB38"
+            ],
+            "file": "builder:ui/tent.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB39"
+            ],
+            "file": "builder:ui/lamp_post.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB40"
+            ],
+            "file": "builder:ui/sack1.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB41"
+            ],
+            "file": "builder:ui/tombstone.png",
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "ascent": 7,
+            "chars": [
+                "\uBB42"
+            ],
+            "file": "builder:ui/pumpkin1.png",
+            "height": 16,
+            "type": "bitmap"
+        }
+    ]
+}

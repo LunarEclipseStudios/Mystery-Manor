@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/jungle_slab" },
+        "type=top": { "model": "block/jungle_slab_top" },
+        "type=double,waterlogged=false": { "model": "block/jungle_planks" },
+        "type=double,waterlogged=true": { "model": "builder:block/planks/cyan_planks" }
+    }
+}

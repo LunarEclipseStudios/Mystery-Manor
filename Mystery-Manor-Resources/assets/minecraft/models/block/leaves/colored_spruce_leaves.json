@@ -1,0 +1,8 @@
+{
+	"credit": "Made by Bret06 using Blockbench",
+	"parent": "lunar:block/template_leaves_0",
+	"textures": {
+		"all": "block/spruce/block",
+		"bushy": "block/spruce/spruce_leaves_bushy_0"
+	}
+}

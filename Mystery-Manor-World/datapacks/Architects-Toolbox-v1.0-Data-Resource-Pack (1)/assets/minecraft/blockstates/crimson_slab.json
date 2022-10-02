@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/crimson_slab" },
+        "type=top": { "model": "block/crimson_slab_top" },
+        "type=double,waterlogged=false": { "model": "block/crimson_planks" },
+        "type=double,waterlogged=true": { "model": "builder:block/planks/light_blue_planks" }
+    }
+}

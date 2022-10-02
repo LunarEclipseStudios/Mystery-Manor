@@ -1,0 +1,14 @@
+{
+    "overrides": [
+        {
+            "model": "builder:item/box/toolbox",
+            "predicate": {
+                "custom_model_data": 6
+            }
+        }
+    ],
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/written_book"
+    }
+}

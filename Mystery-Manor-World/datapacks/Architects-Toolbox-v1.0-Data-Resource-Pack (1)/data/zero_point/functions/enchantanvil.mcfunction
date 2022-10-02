@@ -1,0 +1,1 @@
+give @s minecraft:item_frame{EntityTag:{Item: {id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:448,Enchantments:[{}]}},Invisible:1,Tags:["ctm","enchantanvil"]},display:{Name:'[{"text":"Enchanted Anvil","italic":false}]'},CustomModelData:448,Enchantments:[{}]}

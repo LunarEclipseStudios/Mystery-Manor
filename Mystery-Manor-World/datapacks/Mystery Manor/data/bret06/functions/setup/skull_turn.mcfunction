@@ -1,0 +1,1 @@
+summon armor_stand 36.5 66.55 -100.5 {Invisible:1b,Invulnerable:1b,NoGravity:1b,Tags:["hidden_skull"],DisabledSlots:1052688,Pose:{Head:[0f,27f,0f]},ArmorItems:[{},{},{},{id:"skeleton_skull",Count:1b}]}

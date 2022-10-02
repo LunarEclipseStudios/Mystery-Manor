@@ -1,0 +1,2 @@
+execute as @a[team=murderer] at @s if score option murderer_count matches 2 run tellraw @s ["",{"text":" You & ","color":"red"},{"selector":"@a[team=murderer,distance=1..]","color":"dark_red"},{"text":"\n\n are the murderers, kill every last innocent!","color":"red"}]
+execute as @a[team=murderer] at @s if score option murderer_count matches 3 run tellraw @s ["",{"text":" You","color":"red"},{"text":", ","color":"white"},{"selector":"@a[team=murderer,distance=1..]","color":"dark_red"},{"text":"\n\n are the murderers, kill every last innocent!","color":"red"}]

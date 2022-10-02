@@ -1,0 +1,28 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:paper",
+            "nbt": "{CustomModelData:256}"
+        },
+        "title": {
+            "text": "Mystery Manor",
+            "bold": false,
+            "color": "white"
+        },
+        "description": {
+            "text": "",
+            "color": "dark_red",
+            "bold": false,
+            "italic": true
+        },
+        "background": "minecraft:textures/block/black_concrete.png",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "frame": "challenge"
+    },
+    "criteria": {
+        "requirement": {
+            "trigger": "minecraft:impossible"
+        }
+    }
+}
